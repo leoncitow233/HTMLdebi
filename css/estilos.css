@@ -154,6 +154,9 @@ body {
   width: 200px;
   height: 200px;
 }
+h2 {
+  color: rgb(175 140 193);
+}
 
 @media screen and (max-height: 1000px) and (max-width: 1000px) {
   .card {
